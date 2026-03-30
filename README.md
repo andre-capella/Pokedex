@@ -1,2 +1,5 @@
 # Pokedex
-teste do curso 
+
+teste do curso
+fiz no curso
+deu certo
